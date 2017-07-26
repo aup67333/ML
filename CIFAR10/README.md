@@ -1,10 +1,10 @@
 # CIFAR10
 
-Read binary data
-Train a simple classifier
+Read binary data  
+Train a simple classifier  
 
 ## CIFAR-10 Dataset
-https://www.cs.toronto.edu/~kriz/cifar.html
+https://www.cs.toronto.edu/~kriz/cifar.html  
 Use binary version
 
 ## Neural Network Structual
